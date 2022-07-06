@@ -1,4 +1,4 @@
-<h1 align="center" font-size="bold" color-font="red"> Arquitetura-css </h1>
+<h1 align="center" font-size="bold" color-font="red">Fruta - Fruto</h1>
 
 
 # Resumo do projeto
